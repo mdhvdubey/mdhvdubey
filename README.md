@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mdhvdubey
-- 👀 I’m interested in embedded cpp, arduino, micropython, python.
-- 🌱 I’m currently learning embedded cpp
+- 👀 I’m interested in Linux device drivers, embedded C/Cpp, arduino, micropython, python.
+- 🌱 I’m currently learning embedded cpp, Linux device drivers.
 - 💞️ I’m looking to collaborate on embedded systems
-- 📫 How to reach me mdhvdubey@gmail.com
+- 📫 How to reach me mdhvdubey@gmail.com, madhavdubey0@gmail.com
 
 <!---
 mdhvdubey/mdhvdubey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
